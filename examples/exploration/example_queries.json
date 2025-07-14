@@ -1,0 +1,7 @@
+[
+  {"query": "If I have 5 apples and give 2 to my friend, then buy 3 more, how many apples do I have?"},
+  {"query": "A train travels at 60 mph. How far will it travel in 2.5 hours?"},
+  {"query": "If a rectangle has a length of 8 cm and a width of 5 cm, what is its area?"},
+  {"query": "John is twice as old as Mary. Mary is 15 years old. How old is John?"},
+  {"query": "If the sum of two numbers is 20 and their difference is 4, what are the two numbers?"}
+]
